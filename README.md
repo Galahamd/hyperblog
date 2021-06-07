@@ -10,6 +10,8 @@ Un blog increible para el curso de Git y GIthub de Platzi
 * Trucos muy locos del profesor
 * Las personalidades multiples de Freddy
 * Mi cambio en readme para usar comandos aprendidos
+* Nuevos cambios para commit
+*Con estos lineas mejoramos nuestro aprendizaje
 
 
 Y como un ambamle recordatorio **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO  y mejor ve [a ver el curso.](https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/ "a ver el curso.")
